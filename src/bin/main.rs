@@ -1,4 +1,3 @@
-
 use captrs::*;
 use core::time::Duration;
 use std::fs::File;
